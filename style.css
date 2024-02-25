@@ -1,0 +1,15 @@
+.contain{
+    border: 1px solid rgb(93, 93, 93);
+    border-radius: 8px;
+    margin: 8px 8px 0px 8px;
+}
+.mim img{
+    width: 130px;
+    height: 50px;
+}
+.bolt
+{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
